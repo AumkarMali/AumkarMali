@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aumkar Mali</h1>
-<h3 align="center">A passionate and detail-oriented developer & engineer</h3>
+<h3 align="left">A passionate and detail-oriented developer & engineer</h3>
 
 - 🔭 I’m currently practising **Leet Code**
 
