@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Robotics + Machine learning Algorithms = The Future!**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
