@@ -1,18 +1,20 @@
 <h1 align="center">Hi👋, I'm Aumkar Mali | This is my Code & Documentation</h1>
 <h3 align="left">A passionate and detail-oriented developer & engineer</h3>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aumkarmali&show_icons=true&locale=en&layout=compact" alt="aumkarmali" /></p>
 
-- 🔭 I’m currently practising **Leet Code**
-
-- 🌱 I’m currently working on **Deep Learning with Python**
-
-- 👯 I’m learning **React and Tailwind CSS**
-
-- ⚡ Fun fact **Robotics + Machine learning Algorithms = The Future!**
-
-<p align="center">
-  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="300" />
-</p>
+<div align="left">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aumkarmali&show_icons=true&locale=en&layout=compact" alt="aumkarmali" />
+  </p>
+  <p>
+    <img align="left" src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="300" />
+  </p>
+  <div style="margin-left: 320px;">  <!-- Adjust this margin-left value as needed to properly space the text next to the images -->
+    - 🔭 I’m currently practising **Leet Code** <br>
+    - 🌱 I’m currently working on **Deep Learning with Python** <br>
+    - 👯 I’m learning **React and Tailwind CSS** <br>
+    - ⚡ Fun fact **Robotics + Machine learning Algorithms = The Future!**
+  </div>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
