@@ -4,10 +4,6 @@
 
 <h3 align="left">A passionate and detail-oriented developer & engineer</h3>
 
-<p align="right">
-  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" />
-</p>
-
 - 🔭 I’m currently practising **Leet Code**
 
 - 🌱 I’m currently working on **Deep Learning with Python**
@@ -18,6 +14,11 @@
 
 
 <p align="left">
+</p>
+
+
+<p align="right">
+  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
