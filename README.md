@@ -1,7 +1,5 @@
-<h1 align="center">Hi👋, I'm Aumkar Mali | This is my Code! <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" /> </h1> 
-<p>
-  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" />
-</p>
+<h1 align="center">Hi👋, I'm Aumkar Mali | This is my Code & Documentation!</h1> 
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aumkarmali&show_icons=true&locale=en&layout=compact" alt="aumkarmali" /></p>
 
 
