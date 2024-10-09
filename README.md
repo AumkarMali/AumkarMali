@@ -3,10 +3,10 @@
 
 <div align="left">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aumkarmali&show_icons=true&locale=en&layout=compact" alt="aumkarmali" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aumkarmali&show_icons=true&locale=en&layout=compact" alt="aumkarmali" />
   </p>
   <p>
-    <img align="left" src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="300" />
+    <img align="right" src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="300" />
   </p>
   <div style="margin-left: 320px;">  <!-- Adjust this margin-left value as needed to properly space the text next to the images -->
     - 🔭 I’m currently practising **Leet Code** <br>
