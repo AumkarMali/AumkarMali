@@ -11,7 +11,7 @@
 - ⚡ Fun fact **Robotics + Machine learning Algorithms = The Future!**
 
 <p align="center">
-  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" />
+  <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="300" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
