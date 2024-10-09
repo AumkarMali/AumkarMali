@@ -14,7 +14,7 @@
 
 
 
-<p align="right">
+<p>
   <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" />
 </p>
 <p align="left">
