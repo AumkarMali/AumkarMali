@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Aumkar Mali | This is my Code!</h1> 
+<h1 align="center">Hi👋, I'm Aumkar Mali | This is my Code! <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" /> </h1> 
 <p>
   <img src="https://i.ibb.co/c61jgfJ/Screenshot-2024-10-09-164232.png" alt="Most Used Languages" width="100" />
 </p>
